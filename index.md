@@ -2,7 +2,7 @@
 layout: about
 title: Anna Walsdorff
 lang: en
-permalink: /en/
+permalink: /
 invisible: true
 seo:
   title: Anna Walsdorff, political scientist
