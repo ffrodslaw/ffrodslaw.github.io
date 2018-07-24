@@ -6,7 +6,7 @@ description:
 baseurl: ""
 # url: "https://gaalcaras.com"
 
-langs: ["fr", "en"]
+langs: ["en", "de"]
 defaults:
   - scope:
       path: ""
