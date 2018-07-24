@@ -5,8 +5,8 @@ title: Teaching
 permalink: /teaching/
 ---
 
-# Introduction to R
+## Introduction to R
 
 adjfjfjdjdgjgjd
 
-# Introduction to LaTeX
+## Introduction to LaTeX
