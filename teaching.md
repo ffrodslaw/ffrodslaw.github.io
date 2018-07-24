@@ -5,8 +5,14 @@ title: Teaching
 permalink: /teaching/
 ---
 
-## Introduction to R
+## Programming
+
+### Introduction to R
 
 adjfjfjdjdgjgjd
 
-## Introduction to LaTeX
+### Introduction to LaTeX
+
+skfdgkdkgd
+
+## Political Science
