@@ -6,12 +6,12 @@ description:
 baseurl: ""
 # url: "https://gaalcaras.com"
 
-langs: ["en", "de"]
-defaults:
-  - scope:
-      path: ""
-    values:
-      lang: "en"
+langs: ["en"]
+# defaults:
+#  - scope:
+#      path: ""
+#    values:
+#      lang: "en"
 
 # Author
 author: Anna Walsdorff
