@@ -9,7 +9,7 @@ permalink: /teaching/
 
 ### Introduction to R
 
-Taught a week-long introductory course to first year graduate students in my capacity as Data Science Fellow. The slides can be found [here](https://github.com/ffrodslaw/r-intro/raw/master/r.pdf){:target="_blank"}.
+Taught a week-long introductory course to first year graduate students in my capacity as Data Science Fellow. The slides can be found [here](https://docs.google.com/viewer?url=${https://github.com/ffrodslaw/r-intro/raw/master/r.pdf}){:target="_blank"} .
 
 ### Introduction to LaTeX
 
