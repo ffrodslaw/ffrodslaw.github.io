@@ -13,7 +13,7 @@ Taught a week-long introductory course to first year graduate students in my cap
 
 ### Introduction to LaTeX
 
-Slides for the week-long LaTeX class can be found [here](https://github.com/ffrodslaw/latex-intro/blob/master/latex.pdf){:target="_blank"}.
+Slides for the week-long LaTeX class can be found [here](http://nbviewer.jupyter.org/github/ffrodslaw/latex-intro/blob/master/latex.pdf){:target="_blank"}.
 
 ## Teaching assistant
 
