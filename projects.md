@@ -7,6 +7,8 @@ permalink: /projects/
 
 ## Tatort ratings analysis
 
+*(Work in progress)* Tatort is a German crime show that's been on TV for 50 (!) years. It has a somewhat cultish following and many people, including me, grew up watching it every Sunday at 8.15pm. I'm working on compiling data on all episodes' IMDB ratings, viewership numbers etc. to gain insights in what makes certain episodes more popular or better than others.
+
 
 ## Ultrasignup waitlist notifications
 
