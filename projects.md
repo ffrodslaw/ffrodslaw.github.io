@@ -13,7 +13,11 @@ permalink: /projects/
 
 ### Programming languages
 
+R, Python
+
 ### OS
+
+Linux, Windows, Mac
 
 ### Tools
 
