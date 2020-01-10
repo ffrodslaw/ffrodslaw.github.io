@@ -11,24 +11,14 @@ permalink: /projects/
 
 ## Skills
 
-#### Programming languages
+*Programming languages:* R, Python, Bash
 
-R, Python, Bash
+*OS:* Linux, Windows, Mac
 
-#### OS
+*Data management:* SQL
 
-Linux, Windows, Mac
+*Typesetting:* LaTeX, Markdown
 
-#### Data management
+*Other technical software:* Stata, SPSS
 
-SQL
-
-#### Typesetting
-LaTeX, Markdown
-
-#### Other technical software
-Stata, SPSS
-
-#### Tools
-
-git, Gitkraken, SLURM
+*Tools:* git, Gitkraken, SLURM
