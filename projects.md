@@ -13,13 +13,22 @@ permalink: /projects/
 
 #### Programming languages
 
-R, Python
+R, Python, Bash
 
-### OS
+#### OS
 
 Linux, Windows, Mac
 
-### Tools
+#### Data management
 
-* Github, Gitkraken
-* Bash
+SQL
+
+#### Typesetting
+LaTeX, Markdown
+
+#### Other technical software
+Stata, SPSS
+
+#### Tools
+
+git, Gitkraken, SLURM
