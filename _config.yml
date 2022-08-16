@@ -23,6 +23,7 @@ github_username: ffrodslaw
 # linkedin_username: 
 # author_website: 
 resume:
+  name: Resume
   url: assets/docs/resume.pdf
 
 # Nav menu
