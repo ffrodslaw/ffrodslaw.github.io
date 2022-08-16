@@ -22,8 +22,8 @@ github_username: ffrodslaw
 # keybase_username: 
 # linkedin_username: 
 # author_website: 
-curriculum:
-#  url: assets/resume.pdf
+resume:
+  url: assets/docs/resume.pdf
 
 # Nav menu
 # nav_ext_links:
