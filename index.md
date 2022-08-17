@@ -9,3 +9,4 @@ seo:
 ---
 
 Hi, I'm Anna. I am a political scientist and currently finishing my PhD at the University of Rochester.
+
