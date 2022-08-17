@@ -53,7 +53,7 @@
       {% if site.cc == null %}©{% endif %}
       {% include _i18n/sitetitle.html %}
       {% assign oldest_post = site.posts reversed | first %}
-      {% assign oldest = oldest_post.date | date: "%Y" %}
+      {% assign oldest = 2020 %}
       {% assign newest = site.time | date: "%Y" %}
       ({% if oldest != newest %}{{ oldest }}-{% endif %}{{ newest }})
       {% if site.author and site.author_display %}
