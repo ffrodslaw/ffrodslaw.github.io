@@ -4,7 +4,7 @@ title: Anna Walsdorff
 description:
   en: PhD student working on development finance and quantitative methods. Data nerd.
 baseurl: ""
-# url: "https://gaalcaras.com"
+url: "http://annawalsdorff.com"
 
 langs: ["en"]
 # defaults:
@@ -23,7 +23,7 @@ github_username: ffrodslaw
 # linkedin_username: 
 # author_website: 
 curriculum:
-  name: Resume
+  # name: Resume
   url: assets/docs/resume.pdf
 
 # Nav menu
