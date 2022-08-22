@@ -47,7 +47,7 @@ favicon:
 markdown: kramdown
 redcarpet:
   extensions: ["tables", "fenced_code_blocks", "autolink", "footnotes", "with_toc_data"]
-theme: academic
+remote_theme: gaalcaras/academic
 plugins:
   - jekyll-feed
 exclude:
