@@ -10,7 +10,8 @@ end
 
 gem 'jekyll-data', '~> 1.0'
 
-gem 'academic', '~> 0.5.8'
-
 gem 'bundler', '~> 1.12'
 gem 'rake', '~> 10.0'
+
+gem 'academic', '~> 0.5.8'
+
