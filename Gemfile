@@ -8,4 +8,6 @@ group :jekyll_plugins do
   gem 'jekyll-last-modified-at'
 end
 
+gem 'jekyll-data', '~> 1.0'
+
 gem 'academic', '~> 0.5.8'
