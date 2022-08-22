@@ -1,20 +1,27 @@
-# coding: utf-8
+source "https://rubygems.org"
+ruby RUBY_VERSION
 
-Gem::Specification.new do |spec|
-  spec.name          = "academic"
-  spec.version       = "0.5.8"
-  spec.authors       = ["gaalcaras"]
-  spec.email         = ["gaby.alcaras@gmail.com"]
+# Hello! This is where you manage which Jekyll version is used to run.
+# When you want to use a different version, change it below, save the
+# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
+#
+#     bundle exec jekyll serve
+#
+# This will help ensure the proper Jekyll version is running.
+# Happy Jekylling!
+gem "jekyll", "3.3.0"
 
-  spec.summary       = %q{Academic is a Jekyll theme with a focus on simplicity, typography and flexibility.}
-  spec.homepage      = "https://github.com/gaalcaras/academic"
-  spec.license       = "MIT"
+# This is the default theme for new Jekyll sites. You may change this to anything you like.
+gem "academic"
 
-  spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|_layouts|_data|_includes|_sass|LICENSE|README)}i) }
+# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
+# uncomment the line below. To upgrade, run `bundle update github-pages`.
+# gem "github-pages", group: :jekyll_plugins
 
-  spec.add_runtime_dependency "jekyll-data", '~> 1.0'
-
-  spec.add_development_dependency "jekyll", "~> 3.3"
-  spec.add_development_dependency "bundler", "~> 1.12"
-  spec.add_development_dependency "rake", "~> 10.0"
+# If you have any plugins, put them here!
+group :jekyll_plugins do
+   gem "jekyll-feed", "~> 0.6"
+   gem "jekyll-livereload"
+   gem "redcarpet"
+   gem "jekyll-data"
 end
