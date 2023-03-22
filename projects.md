@@ -5,6 +5,12 @@ title: Projects
 permalink: /projects/
 ---
 
+## [Spotify time machine](https://github.com/ffrodslaw/100-days-of-code/tree/main/46_spotify-time-machine)
+
+A command line Python app that asks for a date and automatically creates a Spotify playlist containing that week's Billboard Hot 100.
+
+
+
 ## Tatort ratings analysis
 
 *(Work in progress)* Tatort is a German crime show that's been on TV for 50 (!) years. It has a somewhat cultish following and many people, including me, grew up watching it every Sunday at 8.15pm. I'm working on compiling data on all episodes' IMDB ratings, viewership numbers etc. to gain insights in what makes certain episodes better or at least more popular than others.
